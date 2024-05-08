@@ -12,4 +12,6 @@
 7. create files useing commands - touch app.js  (use git bash not user powershell not work)
 8. after this in package json set this "type": "module", bacause we use import syntax (! require)
 9. install node mone bacause using this server not start againg and againg.(npm i -d nodemon)
-10.after that in src use command mkdir created some folder controllers,db,middlewares,models,routes,utils
+10. after that in src use command mkdir created some folder controllers,db,middlewares,models,routes,utils
+11. npm i -d prettier (needed because many peploe work on same project). add some files (.prettierrc ,.prettuerignore)
+12.  
