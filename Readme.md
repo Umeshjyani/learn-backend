@@ -14,4 +14,4 @@
 9. install node mone bacause using this server not start againg and againg.(npm i -d nodemon)
 10. after that in src use command mkdir created some folder controllers,db,middlewares,models,routes,utils
 11. npm i -d prettier (needed because many peploe work on same project). add some files (.prettierrc ,.prettuerignore)
-12.  npm i dotenv , mongoose , express    
+12.  npm i dotenv , mongoose , express , cookie-parser , cors (read about cors).
